@@ -4,7 +4,7 @@ import os
 import collections
 # import itertools
 from time import sleep
-import  zipfile
+import zipfile
 from math import ceil
 import requests
 from requests.compat import urljoin
